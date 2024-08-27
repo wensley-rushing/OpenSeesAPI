@@ -2,10 +2,6 @@ from setuptools import setup
 
 setup(name='OpenSeesAPI',
       version='0.15.0',
-      # install_requires=[
-      # "numpy",
-      # "matplotlib",
-      # ],
       description='A OpenSees Wrapper in Python',
       url='http://github.com/nassermarafi/OpenSeesAPI',
       author='Nasser Marafi',
